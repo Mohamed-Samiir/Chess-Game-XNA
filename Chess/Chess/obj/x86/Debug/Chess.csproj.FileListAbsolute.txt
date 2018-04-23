@@ -1,0 +1,47 @@
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Chess.exe
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Chess.pdb
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.exe
+c:\users\hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black bishop.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black king.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black knight.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black pawn.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black queen.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black rook.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white bishop.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white king.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white knight.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white pawn.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white queen.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white rook.xnb
+C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\board.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black bishop.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black king.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black knight.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black pawn.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black queen.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black rook.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white bishop.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white king.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white knight.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white pawn.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white queen.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white rook.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\board.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.PromotionForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\Chess_Strategies.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\Exit (Clicked).xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\Exit (Neutral).xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\Start Game (Clicked).xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\Start Game (Neutral).xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black turn.xnb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white turn.xnb

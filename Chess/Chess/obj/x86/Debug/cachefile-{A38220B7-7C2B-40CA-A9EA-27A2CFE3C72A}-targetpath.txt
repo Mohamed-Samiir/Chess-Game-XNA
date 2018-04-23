@@ -1,0 +1,20 @@
+Content\black bishop.xnb
+Content\black king.xnb
+Content\black knight.xnb
+Content\black pawn.xnb
+Content\black queen.xnb
+Content\black rook.xnb
+Content\white bishop.xnb
+Content\white king.xnb
+Content\white knight.xnb
+Content\white pawn.xnb
+Content\white queen.xnb
+Content\white rook.xnb
+Content\board.xnb
+Content\Exit (Clicked).xnb
+Content\Exit (Neutral).xnb
+Content\Start Game (Clicked).xnb
+Content\Start Game (Neutral).xnb
+Content\Chess_Strategies.xnb
+Content\black turn.xnb
+Content\white turn.xnb

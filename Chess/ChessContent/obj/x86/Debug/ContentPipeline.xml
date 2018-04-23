@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>black bishop.png</Source>
+      <Name>black bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black bishop.xnb</Output>
+      <Time>2016-04-11T22:14:41.6308711+02:00</Time>
+    </Item>
+    <Item>
+      <Source>black king.png</Source>
+      <Name>black king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black king.xnb</Output>
+      <Time>2016-04-11T22:14:41.6538724+02:00</Time>
+    </Item>
+    <Item>
+      <Source>black knight.png</Source>
+      <Name>black knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black knight.xnb</Output>
+      <Time>2016-04-11T22:14:41.6558725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>black pawn.png</Source>
+      <Name>black pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black pawn.xnb</Output>
+      <Time>2016-04-11T22:14:41.6588727+02:00</Time>
+    </Item>
+    <Item>
+      <Source>black queen.png</Source>
+      <Name>black queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black queen.xnb</Output>
+      <Time>2016-04-11T22:14:41.6608728+02:00</Time>
+    </Item>
+    <Item>
+      <Source>black rook.png</Source>
+      <Name>black rook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\black rook.xnb</Output>
+      <Time>2016-04-11T22:14:41.663873+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white bishop.png</Source>
+      <Name>white bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white bishop.xnb</Output>
+      <Time>2016-04-11T22:14:41.6678732+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white king.png</Source>
+      <Name>white king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white king.xnb</Output>
+      <Time>2016-04-11T22:14:41.6708734+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white knight.png</Source>
+      <Name>white knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white knight.xnb</Output>
+      <Time>2016-04-11T22:14:41.6738735+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white pawn.png</Source>
+      <Name>white pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white pawn.xnb</Output>
+      <Time>2016-04-11T22:14:41.6768737+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white queen.png</Source>
+      <Name>white queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white queen.xnb</Output>
+      <Time>2016-04-11T22:14:41.6798739+02:00</Time>
+    </Item>
+    <Item>
+      <Source>white rook.png</Source>
+      <Name>white rook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\white rook.xnb</Output>
+      <Time>2016-04-11T22:14:41.6828741+02:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2016-04-12T08:18:34.06794+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\ChessContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\ChessContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hesham\documents\visual studio 2012\Projects\Chess\Chess\Chess\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-11T20:05:23.3841247+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
